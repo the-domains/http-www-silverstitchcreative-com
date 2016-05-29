@@ -1,7 +1,7 @@
 name: 'http://www.silverstitchcreative.com/'
 favicon: null
-layout_spectrum: 0.8539569184649736
-typography_spectrum: 0.6536024224478751
+layout_spectrum: 0.36767
+typography_spectrum: 0.36901
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.5522553918417543
-  lightness: 0.17689049919135869
-  saturation: 0.2962297135964036
-  rhythmicContrast: 0.8749274604488164
+  lightness: 0.25
+  saturation: 0.9375
+  rhythmicContrast: 0.25
 purpose: []
