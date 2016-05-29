@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[http://www.silverstitchcreative.com/]]></title>
-        <description><![CDATA[http://www.silverstitchcreative.com/]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[NYC based photography and design studio, serving luxury brands, specializing in handbags, shoes, and jewelry]]></title>
+        <description><![CDATA[NYC based photography and design studio, serving luxury brands, specializing in handbags, shoes, and jewelry]]></description>
+        <link>https://thegrid.ai/http-www-silverstitchcreative-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 15:31:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 15:53:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/http-www-silverstitchcreative-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/190aa1d0-d275-47c6-95ea-05ced6b3dbbc.jpg">]]></description>
+            <link>https://thegrid.ai/http-www-silverstitchcreative-com/fashion-design-for-high-end-accessories/index.html</link>
+            <guid isPermaLink="false">ad07e606-4de9-4f53-99a6-3e33a71323cf</guid>
+            <pubDate>Sun, 29 May 2016 15:53:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eed9314-6b6d-4ec9-bad3-250db60f4cd2.jpg">]]></description>
-            <link>undefinednyc-based-photography-and-design-studio-serving-luxury-bran/index.html</link>
+            <link>https://thegrid.ai/http-www-silverstitchcreative-com/nyc-based-photography-and-design-studio-serving-luxury-bran/index.html</link>
             <guid isPermaLink="false">cafd3dba-4bfa-491a-8054-d50a733e43b0</guid>
             <pubDate>Sun, 29 May 2016 15:31:12 GMT</pubDate>
         </item>
