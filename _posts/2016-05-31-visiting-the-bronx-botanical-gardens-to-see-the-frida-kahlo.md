@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Visiting the Bronx Botanical Gardens to see the Frida Kahlo exhibit
-datePublished: '2016-05-31T12:04:25.487Z'
-dateModified: '2016-05-31T12:04:00.251Z'
+datePublished: '2016-06-03T02:18:36.106Z'
+dateModified: '2016-05-31T12:04:33.850Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-31-visiting-the-bronx-botanical-gardens-to-see-the-frida-kahlo.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-31-visiting-the-bronx-botanical-gardens-to-see-the-frida-kahlo.md
 url: visiting-the-bronx-botanical-gardens-to-see-the-frida-kahlo/index.html
 _type: Article
 
