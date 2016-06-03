@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Fashion Design for High End Accessories...
-datePublished: '2016-05-29T15:54:46.006Z'
-dateModified: '2016-05-29T15:54:17.298Z'
+datePublished: '2016-06-03T02:18:53.750Z'
+dateModified: '2016-05-29T15:54:54.293Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-29-fashion-design-for-high-end-accessories.md
