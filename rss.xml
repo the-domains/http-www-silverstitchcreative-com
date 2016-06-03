@@ -4,8 +4,15 @@
         <description><![CDATA[NYC based photography and design studio, serving luxury brands, specializing in handbags, shoes, and jewelry]]></description>
         <link>https://thegrid.ai/http-www-silverstitchcreative-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 02:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 02:19:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/http-www-silverstitchcreative-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7f1e5b4-a083-4998-9398-4661654b72b2.jpg">]]></description>
+            <link>https://thegrid.ai/http-www-silverstitchcreative-com/</link>
+            <guid isPermaLink="false">4f00f26c-50fb-4126-8e6c-9ba9d9206ea2</guid>
+            <pubDate>Fri, 03 Jun 2016 02:18:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/190aa1d0-d275-47c6-95ea-05ced6b3dbbc.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>http://www.jasonkip.com/#!catalog/c1ywd</link>
             <guid isPermaLink="false">092766a4-3c28-4517-bf1d-e1eab131c593</guid>
             <pubDate>Sun, 29 May 2016 17:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7f1e5b4-a083-4998-9398-4661654b72b2.jpg">]]></description>
-            <link>https://thegrid.ai/http-www-silverstitchcreative-com/</link>
-            <guid isPermaLink="false">4f00f26c-50fb-4126-8e6c-9ba9d9206ea2</guid>
-            <pubDate>Sun, 29 May 2016 16:50:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
